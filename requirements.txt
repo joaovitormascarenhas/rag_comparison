@@ -1,0 +1,11 @@
+langchain
+openai
+chromadb
+tiktoken
+sentence_transformers
+langchainhub
+langchain_community
+langgraph
+pandas
+llama-index
+ragas

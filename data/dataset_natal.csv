@@ -1,0 +1,694 @@
+,context,question,answer,source_doc,groundedness_score,groundedness_eval,relevance_score,relevance_eval,standalone_score,standalone_eval
+0,"Esta é uma lista de alimentos desidratados (secos). A secagem de alimentos é um método de preservação de alimentos que funciona removendo a água dos alimentos, o que inibe o crescimento de bactérias, e tem sido praticada em todo o mundo desde os tempos antigos para preservar os alimentos. Onde ou quando a desidratação como técnica de preservação de alimentos foi inventada se perdeu no tempo, mas a prática mais antiga conhecida de secagem de alimentos é de 12.000 a.C. por habitantes do moderno Oriente Médio e da Ásia.
+
+
+== Alimentos secos ==
+
+
+=== Alimentos processados ===
+
+
+==== A ====
+Água-viva comestível - geralmente é curada com sal, criando um produto final seco.
+Farinha de aveia instantânea - é aveia cozida, seca e reconstituída com água quente.
+
+
+==== B ====
+Barra de cereais - é uma massa prensada de grãos, nozes e frutas que pode substituir as refeições. São uma importante fonte de energia alimentar para circunstâncias em que o preparo de uma refeição é inconveniente.","Em que circunstâncias as barras de cereais são uma importante fonte de energia alimentar?
+",Barras de cereais são uma importante fonte de energia alimentar para circunstâncias em que o preparo de uma refeição é inconveniente.,https://pt.wikipedia.org/wiki/Lista_de_alimentos_desidratados,2.0,"The context provides a definition of dehydrated foods and a list of dehydrated food items, including a bar of cereals. The context also states that bars of cereals can be an important source of energy in certain circumstances. However, the context does not specify what those circumstances are. Therefore, the answer to the question is not unambiguously answerable with the context.
+",1.0,"This question is not related to machine learning, natural language processing, or the Hugging Face ecosystem. It is about the nutritional value of cereal bars, which is outside the scope of the topic. Therefore, I would rate it a 1 out of 5 for its lack of relevance and usefulness to the intended audience.
+
+",5.0,"This question is about the circumstances in which cereal bars are an important source of food energy. It is a general question that does not depend on any specific context, so it can be understood by itself.
+
+"
+1,"Na França prepara-se com características similares o ""pain perdu"" (""pão perdido""), não sendo frito em azeite abundante, mas sim em manteiga ou numa chapa. No Reino Unido e em países de língua inglesa, bem como no Japão, é conhecido como ""French toast"". Em Portugal as rabanadas são preparadas de forma muito similar às torrijas ou torradas da vizinha Espanha.","Como é chamado o ""pain perdu"" na Inglaterra?
+",French toast,https://pt.wikipedia.org/wiki/Rabanada,5.0,"The context provides information about the dish ""pain perdu"" in France, the UK, Portugal, and Japan. The question asks how the dish is called in England. The context states that in the UK and other English-speaking countries, it is called ""French toast"". Therefore, the question is clearly and unambiguously answerable with the context.
+",1.0,"This question is not related to machine learning, natural language processing, or the Hugging Face ecosystem. It is asking about the name of a French dish in English. Therefore, it is not useful for machine learning developers building NLP applications with the Hugging Face ecosystem.
+",5.0,"The question is asking for the name of a dish in a different language, which is not context-dependent.
+"
+2,"== História ==
+
+
+=== Pré-cristianismo ===","Quem era o deus supremo adorado pelos povos indígenas do Brasil antes do cristianismo?
+",O deus supremo adorado pelos povos indígenas do Brasil antes do cristianismo era chamado de Saci ou Oxalá.,https://pt.wikipedia.org/wiki/Natal,,,,,,
+3,"Carey cantou ""All I Want for Christmas Is You"" durante inúmeras aparições na televisão e turnês ao longo de sua carreira. Em 2010, Carey regravou a música para seu segundo álbum natalino, Merry Christmas II You, intitulado ""All I Want for Christmas Is You (Extra Festive)"". Carey também regravou a música como um dueto com o cantor canadense Justin Bieber em seu álbum Under the Mistletoe de 2011, intitulado ""All I Want for Christmas Is You (Extra Festive)"". A música também foi regravada por muitos artistas ao longo dos anos.","Quem cantou ""All I Want for Christmas Is You"" com Mariah Carey em 2011?
+",Justin Bieber,https://pt.wikipedia.org/wiki/All_I_Want_for_Christmas_Is_You,5.0,"A contexto fornece informações claras de que Mariah Carey e Justin Bieber cantaram ""All I Want for Christmas Is You"" em 2011, como um dueto no álbum de Bieber, Under the Mistletoe.
+
+",1.0,"This question is not related to machine learning, natural language processing, or the Hugging Face ecosystem. It is a question about popular culture, specifically about a Christmas song sung by Mariah Carey. As such, it is not useful for machine learning developers building NLP applications with the Hugging Face ecosystem.
+",1.0,"This question is in Portuguese, and refers to a specific event in 2011. It is not clear what the question is about without additional context.
+"
+4,"A Ceia de Natal envolve muitas tradições populares. O peru é o prato mais tradicional,  tendo sido usado desde o século XVI na Europa.  Recentemente, no Brasil, o pernil de porco e o frango passaram a estar muito próximos do peru na ceia de Natal.
+As tradições dos pratos variam em cada país. Em Portugal, come-se peru e bacalhau com batatas e couves, e na Galiza bacalhau com couve-flor. Na Rússia evita-se a carne, enquanto na Jamaica há um grande uso de ervilhas. Na Alemanha come-se carne de porco. Pratos tradicionais de tempero forte também são muito comuns. Na Austrália, onde as festividades natalinas acontecem durante o verão, as pessoas costumam fazer a ceia de natal em praias. No Brasil, incorporaram-se várias receitas que chegaram ao país com a colonização portuguesa, como a rabanada e o bolinho de bacalhau, enquanto que no interior do Nordeste ainda subsiste o consumo de frango capão. Recentemente em vários lugares do mundo é típico comer mariscos na ceia de Natal.","Qual é o prato tradicional da ceia de natal na Alemanha?
+",Carne de porco,https://pt.wikipedia.org/wiki/Ceia_de_Natal,5.0,"The context provides a clear and unambiguous answer to the question. The context states that in Germany, people eat pork for Christmas dinner. The question asks for the traditional dish of Christmas dinner in Germany.
+
+",1.0,"This question is not related to machine learning, natural language processing, or the Hugging Face ecosystem. It is asking about traditional Christmas dinner in Germany, which is not a topic relevant to the field of machine learning. Therefore, I would rate this question as not useful at all for machine learning developers building NLP applications with the Hugging Face ecosystem.
+
+",5.0,"This question is about the traditional dish of the German Christmas Eve dinner. It is not context-dependent, as it does not refer to any particular setting or document.
+
+"
+5,"== Veja também ==
+Tio do pavê
+
+
+== Referências ==
+
+Exemplo receita tradicional de pavê: https://www.receitamaneira.com.br/receita-de-pave-simples-com-bolacha-champanhe/","Qual é a receita tradicional de pavê?
+","A receita tradicional de pavê é composta por bolacha champanhe, leite condensado, creme de leite, chocolate em pó e gemas de ovos.",https://pt.wikipedia.org/wiki/Pav%C3%AA,,,,,,
+6,"== História ==
+
+
+=== Origens ===
+Em Portugal, por volta do século 17, durante um dia chuvoso, uma mulher criou o prato feito inicialmente de açúcar, ovos, canela, leite e manteiga para quando as crianças não pudessem sair de casa para correr e brincar; pois o prato seria umas das poucas coisas que ""fazeriam a alegria deles"".
+
+
+== Ver também ==
+
+Culinária de Portugal
+Culinária do Brasil
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Cascudo, Luís da Câmara (2004). História da Alimentação no Brasil. [S.l.: s.n.]","Qual foi o prato criado pela mulher portuguesa durante um dia chuvoso?
+","O prato criado pela mulher portuguesa durante um dia chuvoso foi o doce de açúcar, ovos, canela, leite e manteiga.",https://pt.wikipedia.org/wiki/Bolinho_de_chuva,,,,,,
+7,"Como adjetivo, significa também o local onde ocorreu o nascimento de alguém ou de alguma coisa. Como festa religiosa, o Natal, comemorado no dia 25 de dezembro desde o Século IV pela Igreja ocidental e desde o século V pela Igreja oriental, celebra o nascimento de Jesus Cristo e assim é o seu significado nas línguas neolatinas. Muitos historiadores localizam a primeira celebração em Roma, no ano 336 d.C., no entanto parece que os primeiros registros da celebração do Natal têm origem anterior, na Turquia, a 25 de Dezembro, já em meados do século II.","Qual é a data da primeira celebração do Natal?
+","A primeira celebração do Natal ocorreu em Roma, no ano 336 d.C.",https://pt.wikipedia.org/wiki/Natal,,,,,,
+8,"As especiarias usadas para fazer vinho quente variam. O smoking bishop mencionado por Dickens, por exemplo, é feito com vinho do Porto, vinho tinto, limão (siciliano), laranja-azeda, açúcar e especiarias como cravo. Uma variedade francesa ""vin chaud"" sugere adicionar laranja, canela, conhaque e cravo; variedades portuguesas sugerem adicionar vinho do Porto; uma outra variante alemã chamada ""Glühwein"" sugere adicionar cardamomo; uma versão nórdica conhecida como ""gløgg"" usa amêndoas e brandy, e assim sucessivamente. 
+Vinho quente também se popularizou na Escandinávia. Segundo o museu de Vinhos e Destilados em Estocolmo, o rei Gustavo I Vasa gostava muito de uma bebida feita de ""vinho alemão, açúcar, mel, canela, gengibre, cardamomo e cravo"". Em 1609 essa bebida ficou conhecida como ""glögdad vin"", significando ""vinho escaldante"". Em 1870 o termo foi publicado de maneira simplificada como ""glögg"".","O que é o smoking bishop?
+","O smoking bishop é uma bebida feita com vinho do Porto, vinho tinto, limão, laranja-azeda, açúcar e especiarias como cravo.",https://pt.wikipedia.org/wiki/Vinho_quente,5.0,"The context mentions the smoking bishop as an example of a mulled wine, and it provides a list of ingredients for the drink. The context also suggests that the smoking bishop was popular in England during the Victorian era and is still enjoyed today. This information can be used to infer that the smoking bishop is a type of mulled wine made with port wine, red wine, lemon (from Sicily), bitter orange, sugar and spices such as cloves.
+
+",,,,
+9,"=== Dom Pérignon ===
+
+Com o aparecimento de Dom Pérignon, que era um monge beneditino da Abadia de Hautvillers, em 1670, houve uma ""revolução"" na produção do champanhe. A Dom Pérignon, um estudioso da matéria, deve-se a descoberta dos cinco principais elementos que em muito contribuíram para o champanhe tal como ele é hoje:
+
+A mistura de diferentes vinhos da região, conseguindo que o produto fique mais harmonioso.
+Separação e prensagem em separado das uvas pretas que predominam em Champagne, obtendo assim um cristalino sumo de uva.
+O uso de garrafas de vidro mais espesso para melhor permitirem a pressão da segunda fermentação em garrafa.
+O uso da rolha de cortiça, vinda de Espanha, que permitiu substituir o anterior sistema, pauzinhos de cânhamo embebidos em azeite.
+A escavação de profundas adegas, hoje galerias com vários quilômetros de extensão e usadas por todos os produtores, para permitir o repouso e envelhecimento do champanhe a uma temperatura constante.","Qual foi a descoberta de Dom Pérignon?
+","O uso de garrafas de cortiça, vinda de Espanha, que permitiu substituir o anterior sistema, para permitir o repouso e envelhecimento do champanhe a uma temperatura const",https://pt.wikipedia.org/wiki/Champanhe_(vinho),,,,,,
+10,"== História ==
+
+
+=== Surgimento ===
+Aos romanos atribui-se o facto de terem plantado as vinhas na região, embora haja documentos históricos que atestem que a cultura da vinha vem de muito antes, como do famoso escritor de então Plínio, que escrevia já dos famosos vinhos e vinhas desta região, e aos romanos se deve o início da produção dos espumantes em França.
+Um dos motivos que elevaram a fama deste vinho foi o fato de que em Reims, cidade mais importante de Champagne, foram coroados quase todos os grandes reis da França. A coroação acontecia na catedral de Notre-Dame de Reims, construída em 1225, e nas comemorações era servido champanhe. Por este motivo, ficou conhecido como o vinho dos reis e rainhas.
+
+
+=== Dom Pérignon ===","Qual foi a cidade mais importante da região de Champagne?
+",Reims,https://pt.wikipedia.org/wiki/Champanhe_(vinho),,,,,,
+11,=== Denominação de origem controlada (AOC) ===,"Qual é a região de origem do vinho branco de Sancerre?
+",A região de origem do vinho branco de Sancerre é o centro-leste da,https://pt.wikipedia.org/wiki/Champanhe_(vinho),5.0,"A resposta está correta e fornece a região de origem do vinho branco de Sancerre.
+
+",1.0,"The question is not related to machine learning, natural language processing, or the use of transformer models. It is about the origin of a specific type of wine, which is not a topic of relevance for machine learning.
+",5.0,"The question is asking about the region of origin of a specific type of white wine, Sancerre.
+The question is clear and does not depend on any additional context.
+
+"
+12,"== Acessórios ==
+
+Luzes de Natal - é um acessório resumido em um fio com diversas lâmpadas que é utilizado para decoração de casas e árvores de Natal representando as estrelas.
+Bolas de Natal - são esferas decoradas e coloridas que são usadas nas árvores de Natal simbolizando os bons frutos.
+Papai Noel ou Pai Natal - são minibonecos usados nas árvores de Nata","Qual é o acessório usado para decoração de casas e árvores de Natal representando as estrelas?
+",Luzes de Natal,https://pt.wikipedia.org/wiki/%C3%81rvore_de_Natal,,,,,,
+13,"Afanasieff lembrou-se de seus sentimentos durante as discussões iniciais de um disco de Natal: ""Naquela época, você não tinha muitos artistas com álbuns de Natal. Naquela época, não era uma ciência conhecida, e não havia ninguém que fizesse coisas novas, grandes. Canções de Natal. Então, nós o lançaríamos como uma espécie de projeto paralelo: 'Ei, você sabe, estamos lançando um álbum de Natal. Não é grande coisa'"". Finalmente, com a persistência de Mottola, Carey e Afanasieff começaram a escrever e compor músicas para o projeto, Merry Christmas, durante o verão de 1994. ""All I Want fo","Quem não havia muitos artistas com álbuns de Natal naquela época?
+","Naquela época, não havia muitos artistas com álbuns de Natal.",https://pt.wikipedia.org/wiki/All_I_Want_for_Christmas_Is_You,1.0,"The context does not provide information about who had many albums of Christmas music at that time. It only mentions that there were not many artists with Christmas albums at that time and that Mariah Carey and Afanasieff were working on a Christmas album.
+
+",1.0,"This question is not related to machine learning at all. It is about Christmas albums of artists, which is not a topic relevant to machine learning.
+",1.0,"This question is about the number of artists with Christmas albums in a certain period, but it does not specify when this period is.
+
+"
+14,"=== Em inglês ===
+""We wish you a Merry Christmas""
+""Jingle Bells""
+""Jingle bell rock""
+""Let it snow""
+""Oh, Holy Night""
+""Happy Xmas""
+""Rudolph, the red-nosed reindeer""
+""God rest ye merry, gentlemen""
+""It came upon a midnight clear""
+""Deck the hall""
+""Santa Claus is coming to town""
+""The little drummer boy""
+""Hark! The herald angels sing!""
+""The Twelve Days of Christmas""
+""White Christmas""
+""Deck the Halls""
+""Carol of the Bells""
+""O Little Town of Bethlehem""
+""Joy to the World""
+""Carol of the bells"" (versão natalina em inglês de Shchedryk, música ucraniana)
+
+
+=== Em alemão ===
+""Als ich bei meinen schafen wacht""
+""Alle Jahre Wieder""
+""O Du Fröhliche""
+""O Tannenbaum""
+""Süßer die Glocken nie klingen""
+""Läßt uns froh und munter sein""
+""Kling, Glöckchen""
+""Stille Nacht""
+
+
+=== Em latim ===
+""Adeste Fideles - também conhecido como ""Hino Português""""
+""Ave Maria""
+""Dixit Maria""
+""Gaudete""
+""Veni, Veni, Emanuel""
+
+
+=== Em italiano ===
+""Tu Scendi Dalle Stelle""","Qual é o título da música natalina em inglês ""Jingle Bells""?
+","O título da música natalina em inglês ""Jingle Bells""",https://pt.wikipedia.org/wiki/Cantigas_de_Natal,1.0,"The context only contains song titles, and the question asks for the title of a song in a different language. There is no way to determine the title of the song ""Jingle Bells"" in Portuguese from this context.
+
+",1.0,"The question is not related to machine learning.
+",5.0,"The question is asking for the title of a specific song, ""Jingle Bells"", in English. The question is clear and does not depend on any additional context.
+
+"
+15,"No ano de 1223, no lugar da tradicional celebração do natal na igreja, São Francisco, tentando reviver a ocasião do nascimento do Menino Jesus, festejou a véspera do Natal com os seus irmãos e cidadãos de Assis na floresta de Greccio. São Francisco começou então a divulgar a ideia de criar figuras em barro que representassem o ambiente do nascimento de Jesus.
+De lá pra cá, não há dúvidas que a tradição do presépio natalino se difundiu pelo mundo criando uma ligação com a festa do Natal. Já no século XVIII, a recriação da cena do nascimento de Jesus estava completamente inserida nas tradições de Nápoles e da Península Ibérica. 
+Neste mesmo século, vindo de Nápoles, o hábito de manter o presépio nas salas dos lares com figuras de barro ou madeira difundiu-se por toda a Europa e de lá chegou ao Brasil. Hoje, nas igrejas e nos lares cristãos de todo o mundo são montados presépios recordando o nascimento do Menino Jesus, com imagens, de madeira, barro ou plástico, em tamanhos diversos.","Qual foi a cidade onde a tradição do presépio natalino se difundiu pela primeira vez no Brasil?
+",A tradição do presépio natalino se difundiu no Brasil a partir de Nápoles.,https://pt.wikipedia.org/wiki/Decora%C3%A7%C3%A3o_de_Natal,1.0,"The context does not provide information about where the tradition of the nativity scene was first spread in Brazil.
+
+",1.0,"The question is not related to machine learning. It is about the history of Christmas traditions in Brazil, which is not a topic relevant to machine learning.
+",2.0,"The question refers to a specific historical event in Brazil, which makes it dependent on the reader's knowledge of Brazilian history. However, the question is not entirely obscure, as it is related to a well-known Christmas tradition.
+
+"
+16,"== Características ==
+Embora tenham se originado na Europa, os mercados de Natal se espalharam por todo o mundo, sendo encontrados em países como Canadá, Estados Unidos, Japão e diversos outros, muitas vezes adaptando-se às tradições locais.
+Os mercados de Natal são conhecidos por sua atmosfera festiva única, com ruas decoradas, luzes brilhantes, música natalina e aromas de especiarias no ar. Esses elementos criam um ambiente acolhedor e mágico para os visitantes. Uma característica marcante desses mercados é a ampla gama de produtos artesanais oferecidos. De enfeites de Natal a brinquedos de madeira e velas artesanais, os mercados oferecem uma variedade de presentes únicos e tradicionais.","Qual é a característica marcante dos mercados de Natal?
+",A ampla gama de produtos artesanais oferecidos.,https://pt.wikipedia.org/wiki/Mercado_de_Natal,1.0,"The question asks for the defining characteristic of Christmas markets, and the context provides a description of the atmosphere and products found in these markets. The context does not explicitly mention a defining characteristic, and the wide range of handmade products available at the markets is not a unique feature of Christmas markets.
+",1.0,"This question is not related to machine learning. It is asking about a characteristic of Christmas markets, which is not a topic relevant to machine learning.
+",5.0,"This question is about Christmas markets, and it is asking about their distinctive feature. It is clear what the question is about, and it does not depend on any additional information.
+
+"
+17,"Então, no ano de 1990, no Café Bruges, no centro da cidade de Campinas, foi criada a torta holandesa, sobremesa que viria se tornar uma das sobremesas mais famosas do Brasil. Após o sucesso da sobremesa, Silvia vendeu o Café para seu irmão e abriu uma empresa junto com seu então marido Marcos Leite, a Holandesa & Cia. O foco da empresa era a venda de doces e sobremesas para restaurantes, mas mais da metade de sua demanda vinha da venda de tortas holandesas. Após desentendimentos entre Silvia e Marcelo, que era responsável pelas finanças, a empresa foi vendida em 2005 para a atual Mr. Bey Alimentos.","Qual metade da demanda da empresa Holandesa & Cia vinha da venda de tortas holandesas?
+",Mais da metade de sua demanda vinha da venda de tortas holandesas.,https://pt.wikipedia.org/wiki/Torta_holandesa,5.0,"The question asks about the proportion of demand for the company Holandesa & Cia that came from the sale of Dutch cakes. The context states that the company was founded to sell sweets and desserts to restaurants, and that more than half of its demand came from the sale of Dutch cakes. Therefore, the question is answerable with the given context.
+
+",1.0,"This question is not related to machine learning, and it is not useful for building machine learning models.
+",1.0,"The question is written in Portuguese, which is not a widely spoken language. It is also specific to a company, Holandesa & Cia, which is not a well-known company outside of its region. The question is asking about the proportion of the company's demand that comes from the sale of a specific product, which is not a common question outside of the context of the company.
+
+"
+18,"Em Manaus, a queima de fogos acontece em vários pontos da cidade, com destaque à Praia da Ponta Negra, que apresenta um show pirotécnico de 10 minutos. Em 31 de dezembro de 2012, a celebração reuniu cerca de 300 mil pessoas na orla da cidade. É o maior réveillon da Região Norte do Brasil.
+Em Balneário Camboriú, a principal queima de fogos é feita na orla central da praia (no centro da cidade).
+Em Recife, a queima de fogos ocorre por toda a área litorânea da região metropolitana, nas praias de Boa Viagem, Pina etc.
+Em Salvador, na sexta-feira anterior à passagem do ano, as pessoas costumam pedir proteção na Igreja Nosso Senhor do Bonfim para o ano que se iniciará. No noite de 31 de dezembro, a principal queima de fogos e os shows ocorrem na Praça Cay","Qual é a principal queima de fogos em Balneário Camboriú?
+",A principal queima de fogos em Balneário Camboriú acontece na orla central da praia.,https://pt.wikipedia.org/wiki/V%C3%A9spera_de_ano-novo,5.0,"The context provides a clear and unambiguous answer to the question. The question asks about the main fireworks display in Balneário Camboriú, and the context states that it takes place on the central beachfront.
+
+",1.0,"This question is not related to machine learning, natural language processing, or any other topic relevant to this community. It is about a fireworks show in Balneário Camboriú, a city in Brazil.
+",2.0,"The question is asking about the main fireworks show in Balneário Camboriú, which is a specific location. The name of the fireworks show is ""Fantástico Natal"". The question is not context-independant, as it refers to a specific location.
+
+"
+19,"== Dicas ==
+É preferível que se utilize leite integral.
+Para uma variação, substitua o conhaque por rum.
+Para a calda de caramelo: misture 3 colheres de sopa de água e 3 colheres de sopa de açúcar e leve ao fogo baixo, mexendo bem para dissolver, até levantar fervura. Cozinhe por 1 ou 2 minutos sem mexer.
+Existe uma variação que utiliza vinho do porto.
+
+
+== Bibliografia ==
+Rombauer, Irma S. and Marion Rombauer Becker (1931 [1964]) The Joy of Cooking, pp 48, 50. Indianapolis: Bobbs-Merrill. ISBN 0-452-25665-8.
+
+
+== Ver também ==
+Gemada
+Caipirinha
+Caipiroska
+Rum
+Conhaque
+
+
+== Ligações externas ==","Qual é a variação do prato que utiliza vinho do porto?
+",Existe uma variação que utiliza vinho do porto.,https://pt.wikipedia.org/wiki/Eggnog,,,,,,
+20,"== Celebração ao redor do mundo ==
+A passagem do ano-novo é, hoje, celebrada por todo o mundo. Normalmente, ela envolve queima de fogos de artifício em festas públicas, reuniões familiares ou com amigos, jantares ou ceias festivas e diferentes tipos de promessas, simpatias e costumes, como: comer grãos, sementes de romã, verdura, carne de porco, peixe, macarrão ou uva; usar lingerie de uma determinada cor; beber vinho espumante ou sidra, etc.
+
+
+=== Brasil ===
+
+Nas praias do Brasil, pessoas costumam celebrar a chegada do ano-novo trajadas de branco e fazendo oferendas a Iemanjá.","Como as pessoas no Brasil celebram a chegada do ano-novo?
+",As pessoas no Brasil costumam celebrar a chegada do ano-novo trajadas de branco e fazendo oferendas a Iemanjá.,https://pt.wikipedia.org/wiki/V%C3%A9spera_de_ano-novo,5.0,"The context provides information about how New Year's Eve is celebrated around the world and specifically in Brazil. It mentions that in Brazil, people often celebrate on beaches, wearing white and making offerings to Iemanjá. The question asks how people in Brazil celebrate the arrival of the New Year, which is directly addressed in the context.
+
+",1.0,"This question is not related to machine learning, natural language processing, or any other topic relevant to this community. It is about Brazilian New Year's Eve celebrations, which is not a topic related to the development or application of machine learning models.
+",4.0,"This question is asking about how people in Brazil celebrate New Year's Eve, which is a specific cultural event. However, the question does not make any implicit references to a particular context or setting, so it can be understood on its own. The question uses the term ""Brazil,"" which is a well-known country, and ""New Year's Eve,"" which is a widely recognized holiday. Therefore, the question is relatively context-independent and should receive a moderate rating.
+
+"
+21,"Bolinho de chuva é uma especialidade típica tanto em Portugal como no Brasil.
+É feito de farinha de trigo, ovos, leite e fermento químico ou bicarbonato de sódio (e algumas vezes frutas picadas). Os bolinhos são fritos em óleo quente e polvilhados com canela e açúcar. Em geral, as proporções são três xícaras de farinha de trigo e duas de leite para um ovo e o fermento é o último ingrediente a acrescentar. A massa é repartida em bolinhas, com a ajuda de uma colher, antes de ser frita.
+Devido à facilidade na sua confecção, os bolinhos de chuva são servidos regularmente na África e, em Portugal, onde a massa apresenta paladar próximo ao da massa da Bola de Berlim (conhecida no Brasil como sonho), e é mais usado no Natal.
+O bolinho de chuva surgiu em Portugal e tornou-se popular no Brasil graças ao programa de televisão Sítio do Picapau Amarelo, onde a cozinheira Tia Nastácia sempre fazia esses bolinhos para Pedrinho, Narizinho e para a boneca de pano Emília.
+
+
+== História ==","O que é o bolinho de chuva?
+","O bolinho de chuva surgiu em Portugal e tornou-se popular no Brasil graças ao programa de televisão Sítio do Picapau Amarelo, onde a cozinheira Tia Nastácia sempre fazia esses Bolinhos para Pedrinho, Narizinho e para a boneca de pano Emília.",https://pt.wikipedia.org/wiki/Bolinho_de_chuva,5.0,"The context provides a detailed description of what bolinho de chuva is, including its ingredients and method of preparation. It also explains its origin and popularity in Portugal and Brazil. The question asks for a definition of bolinho de chuva, which the context provides.
+
+",1.0,"The question is not related to machine learning or Hugging Face's products, so it is not useful for the intended purpose.
+
+",4.0,"This question is asking about a specific food item, but it does not specify a context or location, so it is relatively independent. However, the term ""bolinho de chuva"" is a Portuguese term, so it may be less familiar to some people.
+
+"
+22,"== Reino Unido ==
+
+No Reino Unido, ""Os enroladinhos de salsicha"" refere-se a pequenas salsichas (geralmente chipolatas) envolvidos em bacon. Eles são um acompanhamento  tradicional para o peru assado num jantar de Natal.
+
+
+== Estados Unidos ==
+
+Nos Estados Unidos, o termo ""enroladinhos de salsicha"" normalmente refere-se a cachorros-quentes envoltos em massa de croissant, mas podem incluir salsichas de Viena ou salsichas cocktail envolvidas em massa de panqueca, de croissant e de pão. A massa é por vezes feita em casa, mas normalmente usa-se massa em conserva. Na maior parte das vezes é servido de forma rápida e fácil como prato principal ou uma refeição ligeira (especialmente para crianças), enquanto as versões menores, são servidas como aperitivo. No pequeno-almoço ou brunch, o termo ""enroladinhos de salsicha"", muitas vezes refere-se a salsichas enroladas em panqueca. No estado do Texas, os enroladinhos de salsicha são chamados de kolaches, apesar do termo ser um ligeiro equívoco.","What are kolaches called in the UK?
+","In the UK, kolaches are called ""enroladinhos de salsicha"".",https://pt.wikipedia.org/wiki/Enroladinho_de_salsicha,1.0,"The context does not provide information about kolaches in the UK.
+
+",1.0,"This question is not related to machine learning, natural language processing, or any other topic relevant to this community. It is about food naming conventions in different countries, which is not a subject of expertise for this community.
+",,
+23,"A ordem dos meses no calendário romano vai de janeiro a dezembro desde o rei Numa Pompilius em cerca de 700 a.C., de acordo com Plutarco e Macróbio. Foi só recentemente que o dia 1º de janeiro voltou a ser o primeiro dia do ano na cultura ocidental. Até 1751, por exemplo, na Inglaterra e no País de Gales (e em todos os domínios britânicos), o ano-novo começava em 25 de março. Desde então, o 1º de janeiro tornou-se o primeiro dia do ano. Durante a Idade Média, vários outros dias foram diversas vezes considerados como o início do ano civil (1º de março, 25 de março, 1º de setembro, 25 de dezembro). Em muitos países, como República Checa, Brasil, Espanha, Portugal, Itália e Reino Unido, o dia 1º de janeiro é um feriado nacional. (Para obter informações sobre a mudança do calendário juliano para o calendário gregoriano e o efeito sobre a datação de eventos históricos, consulte o verbete Mudança para o calendário gregoriano)","Quando o dia 15 de março deixou de ser o primeiro dia do ano?
+",O dia 1º de janeiro voltou a ser o primeiro dia do ano na cultura ocidental em 1751.,https://pt.wikipedia.org/wiki/Ano-novo,1.0,"1
+
+",1.0,"This question is not related to machine learning at all. It is a historical question about the Gregorian calendar reform.
+",,
+24,"== Variantes de Portugal ==
+
+Existem múltiplas variantes, começando pelo pão, que pode ser corrente ou preparado especialmente para as rabanadas. Hoje em dia é muito habitual encontrar esta opção nas pastelarias que oferecem um pão enorme em forma de barra (pão de forma) feito com farinha refinada (antes denominado pão bimbo). Algumas receitas substituem o vinho por leite, e outras prescindem da água, molhando as rabanadas só com mel quente. Com frequência acompanha-se de canela e cravo da Índia. Outras variantes empregam casca de limão ou de laranja ralada para aromatizar o leite, e para o toque final, um pouco de açúcar de canela.
+Algumas das variantes mais populares são as rabanadas tradicionais, as rabanadas com vinho do porto, as rabanadas com calda e as as rabanadas a poveira.
+Mais recentemente apareceram variedades veganas que substituem o leite de vaca por leite de soja e o ovos por farinhas de grão de bico, farinha de soja ou outras leguminosas.","Qual é a receita tradicional de rabanadas?
+","A receita tradicional de rabanadas é feita com pão de forma, leite, ovos, açúcar, canela e cravo da Índia.",https://pt.wikipedia.org/wiki/Rabanada,,,,,,
+25,"A última e mais importante característica incluída na figura do Pai Natal é sua blusa vermelha e branca. Antigamente, ele usava trajes verde e costumava usar um gorro também verde na cabeça.
+Seu atual visual foi obra do cartunista Thomas Nast, na edição de 1 de Janeiro de 1863 da revista Harper's Weeklys. Em alguns lugares na Europa, contudo, algumas vezes ele também é representado com os paramentos eclesiásticos de bispo, tendo, em vez do gorro vermelho, uma mitra episcopal.","Qual é a cor branca que o Pai Natal usa?
+",A cor branca que o Pai Natal usa é sua blusa.,https://pt.wikipedia.org/wiki/Papai_Noel,,,,,,
+26,"Véspera de Natal refere-se à noite ou todo dia que precede o dia de Natal e é amplamente vista como um feriado, total ou parcial, em antecipação ao dia de Natal, festival que comemora o nascimento de Jesus de Nazaré. Juntos, os dois dias são considerados uma das celebrações culturalmente mais significativas da cristandade e do mundo ocidental.","O Natal é uma das celebrações culturalmente mais significativas da cristandade e do mundo ocidental?
+","Sim, o Natal é uma das celebrações culturalmente mais significativas da cristandade e do mundo ocidental.",https://pt.wikipedia.org/wiki/V%C3%A9spera_de_Natal,5.0,"The context states that the two days of Christmas Eve and Christmas Day are considered as one of the most culturally significant celebrations in Christianity and the Western world. The question asks if Christmas is one of the most culturally significant celebrations in the same context. Therefore, the question can be answered unambiguously with the given context.
+
+",1.0,"This question is not related to machine learning at all. It is about a cultural celebration, which is not a topic relevant to machine learning.
+",5.0,"The question is clear and does not depend on any specific context, so it is independent.
+
+"
+27,"A origem do nome  “Consoada” vem do Latim ""consolata"", de ""consolare"", ""consolar"".
+Na tradição católica os fiéis participavam, ao final da noite, na Missa do Galo.
+Segundo a tradição portuguesa, a Consoada consiste principalmente em bacalhau cozido, seguido dos doces, como aletria, rabanadas, filhoses e outros doces. Em algumas regiões do país (principalmente no Norte), o polvo guizado com couves e batatas também consta da mesa de Natal. Em Trás-os-Montes, peru no forno, canja de galinha e assados de borrego, porco ou leitão também marcam o Natal, enquanto na Beira Alta, o cabrito é uma tradição. No Alentejo e no Algarve, o peru recheado assado são pratos que podem constar das mesas.","Qual é a origem do nome ""Consoada""?
+","O nome ""Consoada"" vem do Latim ""consolata"", de ""consolare"", ""consolar"".",https://pt.wikipedia.org/wiki/Ceia_de_Natal,1.0,"The context does not provide information about the origin of the name ""Consoada"". It only mentions the origin of the word comes from Latin ""consolata"" but does not explain why it is called ""Consoada"".
+
+",1.0,"The question is not related to machine learning, natural language processing, or any other topic relevant to the Hugging Face community.
+",,
+28,"Dois videoclipes foram encomendados para a música: o videoclipe principal da música apresenta imagens granuladas de Carey, seus cães e família durante o período de festas, e Carey vestida com uma roupa de Papai Noel brincando na encosta de uma montanha de neve. O então marido de Carey, Tommy Mottola, faz uma aparição como Papai Noel, trazendo um presente para Carey e saindo com um trenó vermelho. O segundo vídeo foi filmado em preto e branco, e apresenta Carey vestida no estilo dos anos 1960 em homenagem ao The Ronettes, ao lado de cantoras e dançarinas.","Quem é o grupo musical homenageado no segundo videoclipe?
+",The Ronettes,https://pt.wikipedia.org/wiki/All_I_Want_for_Christmas_Is_You,,,,,,
+29,"Presépio, em hebraico significa ""a manjedoura dos animais"", sendo também utilizada como sinônimo de estábulo. No Novo Testamento, São Lucas conta que Jesus ao nascer foi reclinado em uma manjedoura, como as muitas que existiam nas grutas da Palestina, utilizadas para recolher animais.
+A representação do presépio foi introduzida no séc. XIII, por São Francisco de Assis, ao idealizar a primeira cidade italiana de Greccio. São Francisco montou o primeiro presépio, em tamanho natural, numa gruta da cidade. O que restou desse presépio encontra-se atualmente","O que restou do presépio de São Francisco de Assis?
+","O que restou do presépio de São Francisco de Assis é a representação do presépio que ele montou em Greccio, na Itália, e que atualmente encontra-se no Museu de São Francisco de Assis, em Greccio.",https://pt.wikipedia.org/wiki/Decora%C3%A7%C3%A3o_de_Natal,,,,,,
+30,"Sobremesa ou, mais raramente pospasto, é como usualmente se chama o complemento das refeições.
+Na língua portuguesa, sobremesa decorre da construção morfológica de sobre + mesa, com sobre significando após, depois, aquilo que sucede e mesa significando a refeição principal que se consome à mesa. Portanto, sobremesa significa depois da mesa ou aquilo que sucede a refeição principal.
+Uma sobremesa pode ser uma fruta qualquer, mas também pode ser uma guloseima.
+Costuma ser preparada com açúcar, assim apresentando paladar doce. É geralmente servida após a refeição salgada. Vários pratos feitos de diversas maneiras são considerados sobremesa, variando de acordo com a culinária, com os usos e os costumes de cada região.
+
+
+== Sobremesas populares ==
+
+Biscoitos
+Bolachas
+Bolos
+Brigadeiros variados
+Brownie
+Chico balanceado
+Chocolates variados
+Cookies
+Doce de leite
+Flan
+Frutas em geral
+Gelatina
+Manjar
+Mousse
+Panacota
+Pavê
+Petit gâteau
+Pudim
+Sagu
+Sorvete
+Suflê
+Tiramisù
+Torta
+guloseima em geral","Qual são algumas sobremesas populares?
+","Algumas sobremesas populares são biscoitos, bolachas, bolos, brigadeiros variados, brownie, chico balanceado, chocolates variados, cookies, doce de leite, flan, frutas em geral, gelatina, manjar, mousse, panacota, pavê, petit gâteau, pudim, sagu, sorvete, suflê e tiramisù.",https://pt.wikipedia.org/wiki/Sobremesa,5.0,"The context provides a definition of sobremesa and lists several examples of popular sobremesas. The question asks for some popular sobremesas, which the context provides.
+
+",1.0,"This question is not related to machine learning, natural language processing, or the Hugging Face Transformers library. It is asking about popular desserts, which is not relevant to the field.
+",,
+31,"=== Reis ===
+Acordai, senhora (S. Martinho, Madeira)
+Ai, acabadas são as festas (Canas de Senhorim, Beira Alta)
+Aqui vos venho cantar (Coimbra, Beira Litoral)
+Avisados de uma estrela:
+Das partes do Oriente (Mação, Beira Baixa)
+Partiram'nos três Reis Magnos (Alenquer, Estremadura)
+Entrai, entrai, pastorinhos / A pombinha vai voando / Bem pudera Deus nascer
+Ó da casa, cavalheira (Nespereira, Beira Alta)
+Olha a barca brasileira
+Quem são os três cavaleiros
+Quem vos vem dar boas-festas (Tuizelo, Trás-os-Montes)
+São chegados os três Reis
+Partidos são de Oriente (Miranda do Douro, Trás-os-Montes)
+Vamos ver a barca nova
+Vimos dar as boas festas (Alvoco da Serra, Beira Alta)
+Vimos-lhe cantar os Reis (Vila Verde, Minho)
+
+
+== Notas ==
+
+
+== Referências ==","Quem vos vem dar Boas-festas?
+","Tuizelo, Trás-os-Montes",https://pt.wikipedia.org/wiki/Lista_de_can%C3%A7%C3%B5es_de_Natal,5.0,"The question is asking for the identity of the individuals who are coming to give Christmas greetings. The context provides information about the Three Wise Men or Kings who are coming to give Christmas greetings.
+
+",1.0,"This question is not related to machine learning, and it is in Portuguese, which is not the language used in the field of machine learning. The question does not provide any value to the field of machine learning.
+",1.0,"The question is written in Portuguese, which is not a widely spoken language. Therefore, it is not clear what the question is asking without additional context.
+
+"
+32,"== Brasil ==
+Um artigo publicado pelo jornal brasileiro O Globo, mostra que à época do Natal, as lojas de vendas de álbuns evidenciavam em suas vitrines e em seus ambientes harpa paraguaia solando ""Jingle Bells"", em outros temas natalinos clássicos. Hoje, porém, a situação é diferente. As canções natalinas no Brasil ficaram submetidas à segmentos como sertanejo universitário e caipira.","Qual é o estilo de música que as canções natalinas no Brasil estão sendo adaptadas?
+",As canções natalinas no Brasil estão sendo adaptadas a estilos de música como sertanejo Universitário e Caipira.,https://pt.wikipedia.org/wiki/M%C3%BAsica_de_Natal,5.0,"The context clearly states that Christmas songs in Brazil are being adapted to the styles of sertanejo universitário and caipira. The question asks for the style of music that Christmas songs in Brazil are being adapted to, so the answer is directly provided in the context.
+
+",1.0,"This question is not related to machine learning, and it is not useful for building machine learning models or understanding the field.
+",,
+33,"A indústria musical brasileira tenta produzir por no país, algo como nos Estados Unidos - que tradicionalmente, tem álbuns natalinos lançados. Simone, Ivan Lins e Xuxa, foram os principais intérpretes a terem álbuns dedicados exclusivamente ao Natal, ao passo que artistas do universo sertanejo lançam coletâneas como ""Natal Sertanejo"".","Quem são os principais intérpretes brasileiros que lançaram álbuns dedicados exclusivamente ao Natal?
+","Simone, Ivan Lins e Xuxa",https://pt.wikipedia.org/wiki/M%C3%BAsica_de_Natal,,,,,,
+34,". Arrumou em seguida papéis coloridos para enfeitá-lo mais um tanto. Era o que ele vira lá fora. Afastando-se, todos ficaram pasmos ao verem aquela árvore iluminada a quem parecia terem dado vida. Nascia assim a árvore de Natal. Queria, assim, mostrar as crianças como deveria ser o céu na noite do nascimento de Cristo.","Qual é a origem da árvore de Natal?
+","A árvore de Natal surgiu quando um homem arrumou papéis coloridos para enfeitá-lo mais um tanto, e foi o que ele vira Lá fora. Afastando-se, todos ficaram pasmos ao verem Aquela árvore iluminada a quem parecia terem dado Vida.",https://pt.wikipedia.org/wiki/Decora%C3%A7%C3%A3o_de_Natal,,,,,,
+35,"No Rio de Janeiro, há queima de fogos e shows musicais ao longo de toda a orla marítima da cidade. A principal concentração, entretanto, ocorre na Praia de Copacabana. Na virada de 2011 para 2012, a queima de fogos em Copacabana durou 16 minutos e contou com cerca de 2 milhões de espectadores. Ainda na mesma festa, a cidade do Rio recebeu, do World Travel Guide, o prêmio de maior festa de réveillon do mundo.
+Em São Paulo, a Avenida Paulista concentra a queima de fogos e as apresentações musicais. Em 31 de dezembro de 2008, a festa reuniu 2,4 milhões pessoas, incluindo mais de 100 mil turistas. Mais cedo, durante a manhã do dia 31, a cidade sedia anualmente a Corrida de São Silvestre, com um percurso de 15 quilômetros contornando o Centro da cidade.
+Em Fortaleza, a principal queima de fogos acontece no aterro da Praia de Iracema. De 2009 para 2010, foram registrados 1 100 000 espectadores na festa. Fortalezenses e turistas escolheram o aterro da Praia de Iracema para iniciar 2017.","Quantas pessoas compareceram à festa em Fortaleza em 2009?
+",Foram registrados 100 000 pessoas compareceram à festa em Fortaleza em 2009.,https://pt.wikipedia.org/wiki/V%C3%A9spera_de_ano-novo,,,,,,
+36,"== História ==
+O ano-novo do calendário gregoriano começa em 1º de janeiro (“dia de ano-novo”), assim como era no calendário romano. Existem inúmeros calendários que permanecem em uso em certas regiões do planeta e que calculam a data do ano-novo de forma diferente. A comemoração ocidental tem origem num decreto do líder romano Júlio César, que fixou o 1º de janeiro como o ""dia do ano-novo"" em 46 a.C.. Os romanos dedicavam esse dia a Jano, o deus dos portões. O mês de Janeiro deriva do nome de Jano, que tinha duas faces (sendo, portanto, bifronte) – uma voltada para frente (visualizando o futuro) e a outra para trás (visualizando o passado). O povo romano era politeísta, ou seja, adorava vários deuses diferentes, e não existe nenhum relato de que o povo judeu que viveu nessa mesma época tenha comemorado o ano-novo, nem tampouco de que os primeiros cristãos o tenham feito.[carece de fontes?]","Quando foi fixado o dia de Ano-Novo no Calendário Gregoriano?
+",O dia de Ano-Novo foi fixado no Calendário Gregoriano em 46 a.C.,https://pt.wikipedia.org/wiki/Ano-novo,5.0,"The context provides a clear answer to the question, stating that the day of New Year in the Gregorian calendar was fixed to January 1st by Julius Caesar in 46 BC.
+
+",1.0,"This question is not related to machine learning at all, and it is about a specific date in the Gregorian calendar, which is not a topic relevant to machine learning. Therefore, the question is not useful for machine learning.
+",5.0,"The question is context-independent and clear, as it refers to a well-known calendar and asks about a specific event related to it.
+
+"
+37,"Uma canção de Natal é uma música cuja letra desenvolve a temática do Natal ou que se tenha associado com a época natalícia ainda que a sua letra não refira essa festividade. Ambos os tipos são incluídos nesta lista.
+Em Portugal pode ser considerada uma canção de Natal qualquer música pertencente ao ""ciclo dos doze dias"" (do Natal aos Reis), incluindo cantigas interpretadas nas tradicionais Janeiras e Reisadas.
+Esta lista está organizada de acordo com o país de origem da canção.
+
+
+== Brasil ==
+
+
+== Portugal ==
+
+
+=== Natais ===","Qual é a canção de Natal mais antiga de Portugal?
+","A canção de Natal mais antiga de Portugal é a música ""Natal"", de autoria desconhecida, que data do século XVI.",https://pt.wikipedia.org/wiki/Lista_de_can%C3%A7%C3%B5es_de_Natal,,,,,,
+38,"== Uso do visual em publicidade ==
+O visual vermelho e branco ganhou impulso em 1931, quando a Coca-Cola realizou uma grande campanha publicitária usando um Papai Noel vestido conforme a criação de Nast. Historicamente, a Coca-Cola não foi a primeira empresa de bebidas não alcoólicas a usar este visual moderno numa campanha publicitária: Já em 1915, a White Rock Beverages o tinha feito p","Qual foi a primeira empresa a usar o visual vermelho e branco em uma campanha publicitária?
+",A Coca-Cola não foi a primeira empresa a usar o visual vermelho e branco em uma campanha publicitária. A White Rock Beverages já o tinha feito em 1911.,https://pt.wikipedia.org/wiki/Papai_Noel,5.0,"A resposta está correta e fornece a informação necessária para responder à pergunta.
+
+",1.0,"This question is not relevant to machine learning as it is asking about the first company to use a specific color scheme in an advertising campaign. It does not involve any machine learning concepts or techniques, and therefore, it is not useful for machine learning purposes.
+
+",1.0,"The question depends on specific context to be understood, making it not independent.
+
+    "
+39,"Em culinária, recheio é uma preparação que se coloca na cavidade de um animal (como aves), vegetal (como pimentão ou beringela), ou ainda pastel ou empadão, antes de serem cozinhados; também pode ser usado em bolos, já depois destes cozidos. 
+
+
+== História ==
+As primeiras receitas de recheios são atribuídas a Apício, um gastrónomo romano que viveu nos reinados de Augusto e Tibério (século I). Sua obra De Re Coquinaria foi tornada pública no século IV; nessa obra, encontram-se receitas de galinha, lebre, porco e outros animais recheados com vegetais, ervas, nozes, espelta (o antepassado do trigo), fígado, ou mioleira. 
+
+
+== Referências ==","Qual é o autor da primeira obra de receitas de recheios?
+","A primeira obra de receitas de recheios é atribuída a Apício, um gastrónomo romano que viveu nos reinados de Augusto e Tibério (século I).",https://pt.wikipedia.org/wiki/Recheio,5.0,"The question asks for the author of the first work of recipes for fillings. The context provides information about the history of fillings and mentions Apício as the author of the first recipes of fillings.
+
+",1.0,"This question is not relevant to machine learning as it is asking about the author of the first recipe book, which is not a machine learning concept.
+",,
+40,"No entanto, a região de Champagne produz, em grande maioria, vinhos espumantes (brancos ou rosados) chamados simplesmente de champanhe, sem mais especificações. Eles são produzidos obrigatoriamente à base apenas das uvas chardonnay, pinot noir e pinot meunier.","Qual tipo de uva é usada para produzir o champanhe?
+","As uvas Chardonnay, Pinot Noir e Pinot Meunier são usadas para produzir o champanhe.",https://pt.wikipedia.org/wiki/Champanhe_(vinho),5.0,"The context clearly states that champagne is produced using the grape varieties Chardonnay, Pinot Noir, and Pinot Meunier. The question asks which types of grapes are used to produce champagne. Therefore, the context provides enough information to answer the question unambiguously.
+
+",2.0,"This question is not related to machine learning, as it asks about the type of grape used to produce champagne, which is a topic in oenology. However, understanding the data related to the production of champagne could be useful for machine learning applications in the food industry, such as predicting the taste of champagne based on the type of grape used. Therefore, I will give a low rating of 2, as the question has potential to be useful in a tangential way to machine learning.
+
+",,
+41,"==== C ====
+Café solúvel (instantâneo)- é uma bebida proveniente de café moído desidratado. O café solúvel é preparado comercialmente por liofilização ou secagem por spray, após o que pode ser reidratado. O café instantâneo também é fabricado em uma forma líquida concentrada.
+Caldo em cubo - é um caldo desidratado (bouillon em francês) ou caldo formado em um pequeno cubo com cerca de 15 mm de largura. Normalmente, é feito desidratando vegetais, caldo de carne, uma pequena porção de gordura, sal e temperos, e moldando-os em um pequeno cubo. Também são feitos tipos vegetarianos e veganos.
+Chá solúvel - é uma mistura em pó à qual se adiciona água para reconstituí-la em uma xícara de chá.
+Creme para café não lácteo - é uma substância líquida ou granular destinada a substituir o leite ou o creme como aditivo ao café ou a outras bebidas.
+
+
+==== F ====
+Fermento de pão- usado como agente fermentador em alimentos assados, como pães, bolos e tortas.","O que é o café solúvel?
+","O café solúvel é uma bebida desidratada, preparada por liofilização ou secagem por spray, após o que pode ser reidratado. Também é fabricado em uma forma líquida concentrada.",https://pt.wikipedia.org/wiki/Lista_de_alimentos_desidratados,5.0,"The context provides a definition for ""café solúvel"" in Portuguese, which translates to ""instant coffee"" in English. The definition explains that instant coffee is a beverage made from dehydrated ground coffee. It is prepared commercially by freeze-drying or spray-drying, after which it can be rehydrated. Instant coffee is also manufactured in a liquid concentrated form.
+Rating: 5
+",2.0,"This question is asking about soluble coffee, which is not directly related to machine learning. However, understanding the context and needs of users who might be asking this question could be useful for developing NLP models that can understand and respond to a wide range of user queries.
+
+",,
+42,"A região produtora de champanhe foi delimitada em 1927 e ocupa uma área de 32 mil hectares (a região demarcada do Douro, mais antiga e maior, foi criada em 1756 e ocupa 250 mil hectares).
+O nome Champagne' é uma AOC, a mais rigorosa Denominação de Origem utilizada em França, equivalente à DOC utilizada em Portugal. A indicação ""AOC"" nunca aparece nas etiquetas das garrafas de champanhe, pois todos os vinhos com o nome original ""Champagne"" são produzidos na região, seguindo a legislação. Esta é a única apelação, junto com a de Cognac, que está dispensada desta menção, pois é a única região cujos vinhos são todos classificados (todas as outras regiões vendem vinhos DOC e vinhos desclassificados).","Qual é a região produtora de champanhe?
+","A região produtora de champanhe é a região demarcada do Douro, que foi criada em 1756 e ocupa 250 hectares.",https://pt.wikipedia.org/wiki/Champanhe_(vinho),,,,,,
+43,"== História ==
+As primeiras representações de Papai Noel na história do cristianismo remontam à fusão dos personagens de São Nicolau com o ""Pai Natal"", resultando no personagem mítico conhecido pelo resto do mundo como Papai Noel (uma derivação fonética de Sinterklaas, do holandês). Em várias das possessões ultramarinas inglesas, mais tarde nas colônias inglesas na América e, finalmente, em países como Canadá e Estados Unidos, as versões inglesas e holandesa do entregador de presentes foram fundidas no futuro. Por exemplo, no livro A History of New York escrito por Washington Irving em 1809, Sinterklaas foi anglicizado para Santa Claus.​
+
+
+== Divulgação ==","Quem é o personagem Mítico conhecido como Papai Noel?
+","Papai Noel é o personagem Mítico conhecido como Santa Claus, uma derivação fonética de Sinterklaas, do holandês.",https://pt.wikipedia.org/wiki/Papai_Noel,,,,,,
+44,"== História ==
+Os mercados de Natal têm suas raízes na Europa medieval, com os primeiros registros remontando ao século XIV na Alemanha. Os mais antigos ainda existentes são o mercado de Natal de Munique, fundado em 1310 e o ""Striezelmarkt"" em Dresden, fundado em 1434. 
+Inicialmente, esses mercados eram conhecidos como ""Mercados de São Nicolau"", em homenagem ao santo padroeiro das crianças e dos presentes. Tais mercados eram locais onde as pessoas podiam adquirir suprimentos para as festividades de Natal, como alimentos, decorações e presentes. Com o tempo, essa tradição ganhou corpo, transformando-se em grandes festividades que uniam a tradição cristã do nascimento de Jesus com costumes e rituais pagãos.","Quando foi fundado o primeiro mercado de Natal?
+",O primeiro mercado de Natal foi fundado em 1310 em Munique.,https://pt.wikipedia.org/wiki/Mercado_de_Natal,1.0,"The context provides information about the history of Christmas markets in Europe, specifically in Germany, and their origins in the medieval period. However, it does not provide any information about when the first Christmas market was founded in Portugal or any other specific country. Therefore, it is not possible to answer this question accurately based on the provided context.
+
+",1.0,"This question is not related to machine learning, and it is not useful for understanding or applying machine learning concepts. The question is about the history of Christmas markets, which is not relevant to machine learning.
+
+",,
+45,"== História ==
+Apesar de seu nome, a sobremesa é totalmente brasileira e não possui nenhum vínculo com os Países Baixos, onde as sobremesas são, geralmente, feitas no forno (como Appeltaart e Vlaai), e não geladas.
+A sobremesa foi criada em 1990 pela cozinheira e empresária campineira Silvia Maria do Espírito Santo, no então Café Bruges, na rua Irmã Serafina, no centro de Campinas, São Paulo.
+Silvia havia sofrido um acidente na Inglaterra em 1989, onde acabou perdendo seu namorado e sofrendo sequelas tanto físicas quanto emocionais. Essas sequelas fizeram com que ela ficasse no país durante todo o ano de 1989, onde trabalhou como governanta para uma família de holandeses, para quem sempre preparava diversos tipos de receitas, utilizando principalmente as frutas que cresciam no quintal da casa da família e na vizinhança, como maçãs e framboesas.","Qual é a origem da sobremesa chamada de sobremesa?
+","A sobremesa foi criada em 1990 pela cozinheira Silvia Maria do Espírito Santo, no então Café Bruges, na rua Irmã Serafina, no centro de Campinas, São Paulo.",https://pt.wikipedia.org/wiki/Torta_holandesa,5.0,"The context clearly states that the dessert called ""sobremesa"" was created in 1990 by a Brazilian cook named Silvia do Espírito Santo in Campinas, São Paulo, Brazil. The name has no relation to the Netherlands. The dessert was not created in the Netherlands, nor is it related to any Dutch desserts.
+
+",1.0,"This question is not related to machine learning, and it is not useful for the field.
+",,
+46,"""All I Want for Christmas Is You"" é uma canção de Natal interpretada pela artista musical estadunidense Mariah Carey. Ela escreveu e produziu a música ao lado de Walter Afanasieff. A Columbia Records lançou em 29 de outubro de 1994 como o single principal de seu quarto álbum de estúdio e primeiro álbum natalino, Merry Christmas (1994). A faixa é uma canção de amor de andamento acelerado que inclui sinos de campainha, vocais de fundo pesados e sintetizadores. É a canção de Natal dos dias modernos mais vendida e solidificada na cultura e na música populares.","Quem escreveu a canção ""All I Want for Christmas Is You""?
+",Mariah Carey e Walter Afanasieff,https://pt.wikipedia.org/wiki/All_I_Want_for_Christmas_Is_You,5.0,"The context clearly states that Mariah Carey wrote and produced the song ""All I Want for Christmas Is You"" along with Walter Afanasieff. Therefore, the answer to the question can be given unambiguously based on the context.
+
+",,,,
+47,"== Brasil ==
+
+
+== Portugal ==
+
+
+=== Natais ===
+
+
+=== Janeiras ===
+Acordai, se estais dormindo (Amêndoa, Beira Baixa)
+As janeiras não se cantam
+Bons anos e anos bons (Açores)
+Deus lhe dê cá as boas-festas (Alguber, Estremadura)
+Deus lhe dê cá boas-noites (Penha Garcia, Beira Baixa)
+Estas casas são mui altas (Monsanto, Beira Baixa)
+Hoje é dia de janeiro
+Moradoras desta casa (Cardigos, Beira Baixa)
+Naquela relvinha que o vento gelou / Inda agora aqui cheguei (Beira Baixa)
+Natal dos Simples de José Afonso
+Quem diremos nós que viva (Barqueiros, Trás-os-Montes)
+Vimos dar as boas-festas (Estômbar, Algarve)
+Janeiras (Videmonte, Guarda)","Qual é o nome da região portuguesa mencionada no contexto?
+",Brasil,https://pt.wikipedia.org/wiki/Lista_de_can%C3%A7%C3%B5es_de_Natal,1.0,"The context does not mention any specific region of Portugal.
+
+",1.0,"This question is not useful for machine learning as it is in Portuguese and does not relate to machine learning concepts or applications.
+",,
+48,== Referências ==,"Quem foi o primeiro a receber o Prêmio Nobel de Física?
+",Albert Einstein,https://pt.wikipedia.org/wiki/Sobremesa,1.0,"The question is asking about the first person to receive the Nobel Prize in Physics. The context does not provide any information about the Nobel Prize or the first person to receive it. Therefore, I cannot answer this question with the given context.
+
+",1.0,"This question is not related to machine learning, and it seems to be in Portuguese, which is not a common language in the machine learning community. Therefore, it is not useful for machine learning purposes.
+",,
+49,== Variantes internacionais ==,"Quais territórios são baseados no jogo do Risk?
+",O jogo é baseado em um tabule,https://pt.wikipedia.org/wiki/Rabanada,,,,,,
+50,"Ao colocar a sobremesa à venda em seu café, Silvia percebeu que a receita tinha se tornado um sucesso e, então, decidiu aprimorar a receita, trocando as bolachas Maria que enfeitavam a sobremesa por bolachas Calipso que, ao contrário das demais bolachas, não murchavam. Após ter aprimorado a receita, Silvia decidiu então batizar a sobremesa que havia criado em homenagem aos seus patrões holandeses de quando ela trabalhava na Inglaterra.","Qual era a sobremesa que Silvia decidiu batizar?
+",A sobremesa que Silvia decidiu batizar era o Calipso.,https://pt.wikipedia.org/wiki/Torta_holandesa,1.0,"The context does not provide the name of the dessert that Silvia decided to name.
+
+",1.0,"This question is not seem to be related to machine learning. It appears to be asking about a specific person named Silvia and her decision to name a dessert. Since this question is not relevant to machine learning, I would rate it a 1.
+
+",,
+51,"Buccellato ou cucciddatu é um doce tradicional da Sicília, difundido em toda a ilha e consumido no Natal.
+É um doce com uma massa com crosta fina, em forma de toro. É decorado de várias maneiras e recheado com figos secos, passas, amêndoa, casca de laranja e outros ingredientes, que variam conforme o local onde for preparado.
+O recheio de amêndoas é uma massa de amêndoas peladas, açúcar e chocolate. O recheio de figos, mais tradicional, é uma massa constituída por figos secos, fruta cristalizada e chocolate.
+Sendo cozido no forno, o buccellato conserva-se durante muito tempo, estando presente nas mesas sicilianas durante todo o período natalício.","Qual é o recheio do buccellato?
+","O recheio do buccellato é uma massa com uma mistura de amêndoas, açúcar, chocolate, figos secos, passas e casca de laranja.",https://pt.wikipedia.org/wiki/Buccellato,5.0,"The context provides a description of the buccellato, a traditional Sicilian dessert, and its two main fillings: an almond filling and a fig filling. The almond filling is made of almonds, sugar, and chocolate, while the fig filling is made of dried figs, candied fruit, and chocolate. The question asks about the filling of the buccellato, and the context provides a clear and unambiguous answer to this question.
+
+",1.0,"This question is not related to machine learning, and it seems to be in a foreign language, which makes it even less relevant to the field. Therefore, I would rate it a 1 out of 5.
+",,
+52,"== Ver também ==
+Doces do Brasil
+
+
+== Referências ==","Qual é a cidade onde ocorreu a primeira edição do Doces do Brasil?
+",A primeira edição do Doces do Brasil ocorreu em São Paulo.,https://pt.wikipedia.org/wiki/Torta_holandesa,1.0,"The context does not provide enough information to answer the question. The context is about the Doces do Brasil, but it does not mention where the first edition of the event took place.
+
+",1.0,"This question is not related to machine learning, and it seems to be asking about a specific event that happened in Brazil. It does not provide any useful information for machine learning practitioners or researchers.
+
+",,
+53,"Os enroladinhos de salsicha são uma variedade alimentos diferentes que têm como base a salsicha, nomeadamente nos Estados Unidos, Reino Unido, Dinamarca, Irlanda, Alemanha, Bélgica, Rússia, Canadá e Japão. Muitas das variedades são grandes, mas outras receitas são feitas para serem comidas em uma ou duas dentadas. Por esta razão, eles são normalmente servidos como aperitivo ou hors-d'oeuvre ou acompanhado por outros pratos no prato principal de uma refeição. No Ocidente, especialmente nos Estados Unidos e no Canadá, onde os enroladinhos de salsicha são feitos para serem comidos com uma dentada, é comum um hors d'oeuvre servido em festas de cocktail e é muitas vezes acompanhada de mostarda ou molho aioli.
+Os enroladinhos de salsicha são geralmente diferentes dos rolos de salsicha, que são maiores, têm mais recheio, são servidos no pequeno-almoço ne almoço em partes da Europa, Austrália e, mais raramente, nos Estados Unidos e no Canadá.
+
+
+== Reino Unido ==","Quais são as variedades de salsicha na Alemanha?
+",As variedades de salsicha na Alemanha são grandes,https://pt.wikipedia.org/wiki/Enroladinho_de_salsicha,1.0,"The context does not provide any information about the varieties of sausage in Germany.
+
+",1.0,"This question is not related to machine learning, and it is not clear what the user is asking. The question is in Portuguese, and it seems to be asking about varieties of sauce in Germany, which is not a relevant topic for machine learning.
+
+",,
+54,"No Brasil, o vinho quente é conhecido na região sul como ""quentão"" e consiste em uma mistura aquecida de vinho, gengibre, açúcar e especiarias como cravo e canela. Segundo o folclorista Amadeu Amaral, em O dialeto caipira (1920), ""quentão"" é uma palavra de origem caipira.[carece de fontes?]
+Nas regiões sudeste e nordeste do Brasil, ""quentão"" é o nome dado a uma bebida similar feita com cachaça ao invés de vinho. A variação se dá devido às grandes produções canavieiras dessas regiões e maior dificuldade de acesso ao vinho que é mais largamente produzido na região sul.","Qual é o nome dado a uma bebida similar feita com cachaça no dialeto caipira?
+",O nome dado a uma bebida similar feita com cachaça no dialeto caipira é o quentão.,https://pt.wikipedia.org/wiki/Vinho_quente,5.0,"The context provides a clear answer to the question, which is ""quentão"". The context explains that ""quentão"" is a name given to a similar drink made with cachaça in the caipira dialect.
+
+",1.0,"This question seems unrelated to machine learning, natural language processing, or the use of transformer models. It appears to be a question about regional dialects and colloquial language use, which is not a focus of the Hugging Face library or transformer models in general.
+
+",,
+55,"Com o tempo, a popularidade dos mercados de Natal se expandiu e a tradição se espalhou por diversas cidades europeias, mantendo-se como pontos centrais das festividades de final de ano. Ao longo dos séculos, os mercados de Natal mantiveram sua essência tradicional, oferecendo um ambiente acolhedor para as comunidades locais se reunirem e celebrarem o período do Natal.
+Atualmente os mercados de Natal mais tradicionais da Europa, principalmente os da Alemanha, atraem milhares de turistas todas as noites ao longo do mês de dezembro.","Qual é a origem da tradição de mercados de Natal na Alemanha?
+",A tradição dos mercados de Natal na Alemanha se expandiu e se tornou um ambiente acolhedor para as comunidades locais se reunirem o período do Natal.,https://pt.wikipedia.org/wiki/Mercado_de_Natal,1.0,"The context does not mention anything about the origin of the Christmas market tradition in Germany.
+
+",,,,
+56,"Os festivais de inverno eram os festivais mais populares do ano em muitas culturas. Entre as razões para isso, inclui-se o fato de","Por que os festivais de inverno eram os festivais mais populares do ano?
+",Os festivais de inverno eram os festivais mais populares do ano porque eles eram as principais festividades do ano.,https://pt.wikipedia.org/wiki/Natal,2.0,"The context does not provide enough information to answer the question. It only mentions that winter festivals were the most popular of the year in many cultures, and gives one reason for this popularity, but does not specifically mention why winter festivals were more popular than other festivals during the year,
+
+",1.0,"This question seems to be unrelated to machine learning and the Hugging Face Transformers library. It appears to be asking about winter festivals and their popularity, which is not a topic relevant to machine learning.
+
+",,
+57,"O ato de misturar especiarias em vinho remonta aos antigos gregos, que as adicionavam para prevenir o desperdício de vinho prestes a vencer, e para se aproveitar as propriedades medicinais das ervas. Os gregos chamavam esse vinho com especiarias de ""hippocras"", em homenagem a Hipócrates, considerado por alguns o pai da medicina. Os romanos desenvolveram uma bebida similar à dos gregos: o autor romano Marcus Gavius Apicius, no seu compêndio da culinária romana conhecido como Apicius Culinaris, descreve uma receita romana conhecida como conditum paradoxum, que consistia de vinho quente com especiarias e mel.","Qual era a receita romana conhecida com especiarias de vinho?
+","A receita romana conhecida como hippocras consistia em vinho quente com especiarias, considerada por alguns gregos como conditum paradoxum, que era uma bebida similar à dos gregos, o pai da medicina.",https://pt.wikipedia.org/wiki/Vinho_quente,5.0,"The context describes a Roman recipe with wine and spices, the conditum paradoxum, and mentions that the Greeks had a similar drink with wine and spices, the hippocras. The question asks about a Roman recipe known with spices and wine, which is the conditum paradoxum.
+
+",,,,
+58,"Muitas outras variáveis de ​​tradições e experiências culturais também estão associadas à véspera do Natal em todo o mundo, incluindo a reunião de familiares e amigos, o canto de canções de Natal, a iluminação com luzes de Natal, árvores e outras decorações, o envolvimento, a troca e a abertura de presentes e a preparação geral para o dia de Natal. Figuras lendárias do Natal, como o Papai Noel, fazem sua viagem anual para entregar presentes às crianças de todo o mundo na véspera de Natal, embora até o século XVI na Europa, era dito que tais figuras entregavam os presentes na véspera do dia da festa de São Nicolau (6 de dezembro).","Qual é a figura lendária que entregava os presentes na véspera de Natal?
+","A figura lendária que entregava os presentes na véspera de Natal era o Papai Noel.
+
+Explanation:
+
+The factoid question asks about the figure who delivered the presents on Christmas Eve. The answer is the figure of Father Christmas.",https://pt.wikipedia.org/wiki/V%C3%A9spera_de_Natal,5.0,"The context clearly states that the figure who delivers presents on Christmas Eve is the legendary figure of Santa Claus, and that this tradition was originally associated with the feast of Saint Nicholas on December 6th.
+
+",1.0,"This question is not related to machine learning. It is asking about a legendary figure associated with Christmas, not a concept or topic relevant to machine learning.
+",,
+59,"Mercado de Natal ou mercado natalino (em alemão: Christkindlmarkt, Christkindlesmarkt, Christkindlmarket, Weihnachtsmarkt, Adventsmarkt ou Adventmarkt; em francês: Marché de Noël)  consiste em mercados de rua associados com a celebração do Natal, normalmente instalados durante as quatro semanas do Advento. Estes mercados têm origem na Alemanha, Áustria, Tirol do Sul (norte da Itália) e nas regiões francesas da Alsácia, Lorena e Savoia.
+A história dos mercados de Natal remonta ao final da Idade Média, na parte de língua alemã da Europa e em muitas partes do antigo Sacro Império Romano-Germânico, que inclui muitas regiões do leste da França e da Suíça. O Strietzelmarkt de Dresden foi realizado pela primeira vez em 1434. O mercado de Natal de Bautzen (realizado pela primeira vez em 1384), Frankfurt (mencionado pela primeira vez em 1393) e Munique (1310) são ainda mais antigos. O ""mercado de dezembro"" de Viena foi uma espécie de precursor do mercado natalino e remonta ao ano 1294.","Qual é a origem do mercado de Natal em Viena?
+",O mercado de Natal em Viena foi realizado pela primeira vez em 1310.,https://pt.wikipedia.org/wiki/Mercado_de_Natal,5.0,"The answer is a direct response to the question and provides specific information about the origin of the Christmas market in Vienna.
+
+",1.0,"This question is not seem to be related to machine learning. It appears to be asking about the origin of the Christmas market in Vienna, which is not a topic directly related to machine learning.
+
+",,
+60,"A árvore de Natal é uma das mais populares tradições associadas com a celebração do Natal. É normalmente uma árvore conífera de folhas perenes (um pinheiro) ou uma árvore artificial com formato similar. Como parte da tradição, enfeita-se a árvore com bolas coloridas e outros adornos natalinos, como o sino de Natal.
+
+
+== História ==","Qual é a árvore artificial de Natal?
+","A árvore artificial de Natal é uma árvore conífera de Natal, normalmente uma árvore conífera de Natal, que é uma árvore com bolas coloridas e outros adornos natais.",https://pt.wikipedia.org/wiki/%C3%81rvore_de_Natal,,,,,,
+61,"Champanhe (em francês:  champagne), champanha ou vin de champagne é um vinho branco espumante, produzido na região de Champagne, nordeste da França, através da fermentação da uva (uma espécie ou várias).
+O champanhe é produzido na região administrativa de Champagne-Ardenne, cuja capital é Épernay.  Foi próximo a Épernay, no povoado de Hautvillers, que os monges Dom Pérignon e Dom Ruinart se esforçaram muito para domar os vinhos que fermentavam novamente nas garrafas, fazendo-as explodir.
+Esta antiga província histórica produz igualmente os vinhos chamados ""tranquilos"" (não-espumantes) que levam a denominações de ""Coteaux Champenois"" para tintos e brancos -cujo mais famosos tintos vêm da aldeia de Bouzy - e ""Rosé des Riceys"" para rosados -vêm da aldeia Les Riceys, no sul da região.","Qual é a região administrativa de Champagne-Ardenne, onde o champanhe é produzido?
+","O champanhe é produzido na região administrativa de Champagne-Ardenne, cuja capital é Épernay.",https://pt.wikipedia.org/wiki/Champanhe_(vinho),,,,,,
+62,"O registro mais antigo de uma canção natalina brasileira é de Assis Valente, em 1933 com o lançamento de ""Boas Festas"". Posteriormente, veio Luiz Vieira com canções como ""Cesta de Natal Pobre"", ""Natal de Criança Pobre"", ""Natal do Menino Pobre"", ""Natal Pobre"". Alguns compositores brasileiros passaram a se dedicar à temática natalina, entre eles João de Barro, Joubert de Carvalho, Roberto Martins, Augusto Vasseur, Herivelto Martins, Ataulfo Alves, Alcebíades Barcelos, Luiz Gonzaga & Zé Dantas e, em época mais recente, Klécius Caldas & Armando Cavalcante (a bela ""Feliz Natal"", que Dick Farney gravou à Sinatra) e ""Blim blem blam"" (primeiro sucesso de Luiz Cláudio).","Quando foi o primeiro lançamento da canção natalina brasileira ""Boas Festas""?
+","O primeiro lançamento da canção natalina brasileira ""Boas Festas"" foi em 1933.",https://pt.wikipedia.org/wiki/M%C3%BAsica_de_Natal,,,,,,
+63,"As celebrações de Natal nas denominações do cristianismo ocidental há muito tempo começam na noite do dia 24 de Dezembro, devido em parte ao dia litúrgico cristão começar ao pôr do sol, uma prática herdada da tradição judaica e baseada na história da Criação no Livro de Gênesis: ""e houve tarde, e houve manhã - o primeiro dia."" Muitas igrejas ainda soam os sinos e realizam orações à noite; por exemplo, as igrejas luteranas nórdicas. Como a tradição diz que Jesus nasceu durante a noite (com base em Lucas 2: 6-8), uma missa é celebrada na véspera de Natal, tradicionalmente, à meia-noite, na comemoração do seu nascimento. A ideia de que Jesus nasceu durante a noite se reflete no fato de que a véspera de Natal é referida como Heilige Nacht (Noite Santa) em alemão, Nochebuena (Boa Noite) em espanhol e de forma semelhante em outras expressões de Natal, tais como a música ""Noite Feliz"".","Qual é a tradição que celebrações de Natal nas denominações do cristianismo ocidental começam na noite do dia 24 de Dezembro, devido em parte ao dia litúrgico cristão?
+
+","As tradições de Natal nas denominações do cristianismo ocidental começam na noite do dia 24 de Dezembro, devido em parte ao dia litú",https://pt.wikipedia.org/wiki/V%C3%A9spera_de_Natal,,,,,,
+64,"Rabanada, também conhecida como fatia dourada, fatia parida ou fatia de ovo, é um doce de pão de trigo (pão-de-forma, baguete ou outro) em fatias que, depois de molhadas em leite, vinho (no Minho usa-se vinho verde tinto ou branco) ou calda de açúcar, são passadas por ovos e fritas ou assadas.
+As rabanadas são um doce tipicamente do Natal e fazem parte de muitas mesas da consoada em Portugal, e em várias ceias do Brasil. São servidas polvilhadas com açúcar de canela ou regadas com caldas, de  açúcar, xarope de bordo, mel, vinho ou vinho do porto. Outrora, a palavra ""rabanada"" era apenas utilizada ao norte do rio Mondego e ao mesmo doce atribuía-se, a partir da margem sul do referido rio, o nome de fatia-dourada, ou fatia-de-parida. 
+Em outros países são típicos nas celebrações espanholas da Quaresma e da Semana Santa, assim como em várias partes do México, tal qual Zacatecas.","Qual é o nome do doce taggy?
+",O nome do doce Shaggy é rabanada.,https://pt.wikipedia.org/wiki/Rabanada,,,,,,
+65,"Pavê (também conhecido como torta de bolacha) é um doce brasileiro de inspiração francesa e seu nome deriva da palavra pavage (francês), que significa “pavimento"", ou seja, uma montagem de pedras e concreto que, por sua vez, lembra às camadas de creme e biscoitos ou pedaços de bolo que compõem a sobremesa. Mais especificamente, é uma espécie de torta gelada que tem como base biscoitos do tipo champanhe ou maizena inteiros ou uma massa de bolo suave embebidos em sucos, licores ou caldas e um creme entre as camadas. Há também complementos variados: frutas frescas ou em calda e chocolate são os mais comuns. É muito popular no Brasil, especialmente na época das festas de fim de ano.","Qual é o nome do doce brasileiro que lembra as camadas de creme e biscoitos ou pedaços?
+",O nome do doce brasileiro que lembra às camadas de creme e biscoitos ou pedaços é o Pavê.,https://pt.wikipedia.org/wiki/Pav%C3%AA,,,,,,
+66,"== Etimologia ==
+A palavra natal do português já foi nātālis no latim, derivada do verbo nāscor (nāsceris, nāscī, nātus sum) que tem sentido de nascer. De nātālis do latim, evoluíram também natale do italiano, noël do francês, nadal do catalão, natal do castelhano, sendo que a palavra natal do castelhano foi progressivamente substituída por navidad, como nome do dia religioso. Já a palavra Christmas, do inglês, evoluiu de Christes maesse ('Christ's mass') que quer dizer missa de Cristo.","Qual é a origem da palavra natal no português?
+","A palavra natál do português vem do latim nātālis, que foi derivada do verbo nāscor (nāsceris, nātus sum).",https://pt.wikipedia.org/wiki/Natal,2.0,"The context provides the etymology of the word 'natal' in Portuguese, which is derived from the Latin word 'nātālis', which means 'birth'. However, the context does not provide any information about the relationship between the word 'natal' in Portuguese and the word 'Christmas' in English.
+
+",,,,
+67,"A Lenha de Natal ou ""Tronco de Natal"" (em francês Bûche de Noël) é uma sobremesa típica, servida próximo ao final do ano na França, Bélgica, Canadá, Líbano, Vietnã e muitos outros países francófonos. Como o próprio nome indica, o bolo é comumente preparado, presenteado e guarnecido para que aparente um pedaço genuíno de lenha prestes a ser queimada, como se usava nos antigos festivais de fogos do solstício de inverno .","Qual é o nome do bolo típico servido próximo ao final do ano na França, Bélgica, Canadá, Líbano, Vietnã e muitos outros países francófonos?
+
+","O nome do bolo típico servido próximo ao final do ano na França, Bélgica, Canadá, Líbano, Vietnã e muitos outros países Francófonos é Lenha de Natal ou ""Tronco de Natal"" (em francês Bûche de Noël).",https://pt.wikipedia.org/wiki/Lenha_de_Natal,,,,,,
+68,"A torta holandesa é uma sobremesa brasileira típica da culinária paulista, e consumida em todo o Brasil.
+De origem campineira, é feita com um leve creme espesso e frio à base de gemas, açúcar, manteiga, creme de leite e essência de baunilha, com uma cobertura suave de leite, margarina, açúcar e achocolatado, com biscoitos banhados em chocolate ao leite ao redor.","Qual é o ingrediente principal da torta holandesa?
+","O ingrediente principal da torta holandesa é a massa, que é feita com farinha de trigo, açúcar, manteiga, creme de leite e essência de baunilha, com uma cobertura suave de leite, margarina, açúcar e achocolatado, com biscoitos banhados em chocolate ao leite ao redor.",https://pt.wikipedia.org/wiki/Torta_holandesa,3.0,"The context describes the ingredients of the Dutch pie, which are: eggs, sugar, butter, cream, vanilla essence, milk, margarine, cocoa, and biscuits. The main ingredient is not specified, but eggs are the first ingredient mentioned, and they are essential to the recipe, so I will give a rating of 3, as the main ingredient is not explicitly stated, but eggs are the first ingredient mentioned and are essential to the recipe.
+
+",1.0,"This question is not related to machine learning, so it is not useful for the field.
+",,
+69,== Referências ==,"Quem foi o primeiro a receber o Prêmio Nobel de Física?
+",Albert Einstein,https://pt.wikipedia.org/wiki/Rabanada,1.0,"The question is asking about the first person to receive the Nobel Prize in Physics. The context does not provide any information about the Nobel Prize or the first person to receive it. Therefore, I cannot answer this question with the given context.
+
+",1.0,"This question is not related to machine learning, and it seems to be in Portuguese, which is not a common language in the machine learning community. Therefore, it is not useful for machine learning purposes.
+",,
+70,"== Informações nutricionais ==
+
+O produto final é rico em carboidrato e possui grande quantidade de calorias: uma fatia de 80 gramas do panetone da marca Nestlé, por exemplo, possui cerca de 280 Kcal (ou 1171,52 kJ).
+
+
+== Etimologia ==
+A palavra panetone (do italiano panettone) tem sua origem no vocábulo milanês panatón ou panattón, de origem e significados controversos. Por outro lado, pode-se deduzir que a origem do termo panettone se deva à contração entre o diminutivo da palavra ""pão"" (do italiano panetto) com o superlativo da mesma palavra (do italiano panone), isto é, panetto + panone = panettone, o que em português se assemelharia ao neologismo ""pãozinhão"".
+
+
+== Ver também ==
+Pandoro
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+«Panetone e sua história, Shirley de Campos» 
+«A história do Panetone: Da Itália para o mundo, Olga Defavari» (em inglês) 
+«Il Panettone Milanese, Italian food, About.com, a part of The New York Times Company» (em inglês)","O que é o pãozinhão?
+","Pode-se deduzir que a origem do termo panetone se deva à contração entre o diminutivo da palavra ""pão"" (do italiano panetto) com o superlativo da mesma palavra (do italiano panone), isto é, Panetto + panone = panettone, o que em português se assemelharia ao neologismo ""pãozinhão"".",https://pt.wikipedia.org/wiki/Panetone,5.0,"The context provides information about the term ""panettone"" and its origin, which is a type of Italian sweet bread. The context also mentions that ""panettone"" can be translated to ""pãozinhão"" in Portuguese. Therefore, it can be concluded that ""pãozinhão"" is a Portuguese term for ""panettone"".
+
+",1.0,"This question is not related to machine learning, and it is not clear what the question is asking. The term 'pãozinhão' is not a recognized term in any language, and the question does not provide enough context to determine its relevance to machine learning.
+
+",,
+71,"Bengala doce é um doce originário da Alemanha que tem a forma de uma bengala, muitas vezes associado com a temporada natalina, bem como a Festa de São Nicolau. Ela é, tradicionalmente, branca com vermelho, listrada e aromatizada com hortelã-pimenta, mas pode ser também de uma variedade de cores e sabores. É muito popular no mundo ocidental, graças a seu relacionamento com os climas festivos de Natal.","Qual é o nome do doce alemão associado com a temporada natalina e a Festa de São Nicolau?
+
+",Bengala doce é chamado Stollen.,https://pt.wikipedia.org/wiki/Bengala_doce,5.0,"The context clearly states that the German confection known as a bengala doce is white and red striped and often associated with the Christmas season and the Feast of St. Nicholas. The question asks for the name of the German sweet associated with the Christmas season and the Feast of St. Nicholas. The context provides the name of the sweet, bengala doce, which matches the name given in the question.
+
+",1.0,"This question is not related to machine learning, and it is in Portuguese, which is not the official language of the Hugging Face community. The question asks about a German dessert associated with the Christmas season and Saint Nicholas Day. This question is not useful for machine learning as it does not involve any machine learning concepts or techniques.
+
+",,
+72,"==== F ====
+Fermento de pão- usado como agente fermentador em alimentos assados, como pães, bolos e tortas.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== K ====
+Kurut - é usado em uma grande família de alimentos encontrados na culinária libanesa, palestina, egípcia, curda, iraniana e da Ásia Central. É feito de leite azedo ou iogurte escorrido, moldando-o e deixando-o secar. Pode ser feito em uma variedade de formas, incluindo enrolado em bolas, fatiado em tiras e em pedaços.","Qual é o alimento usado no fermento de pão?
+",O alimento usado no fermento de pão é o leite azedo.,https://pt.wikipedia.org/wiki/Lista_de_alimentos_desidratados,,,,,,
+73,"Com a expansão da cultura ocidental para muitos outros lugares do mundo durante séculos recentes, o calendário gregoriano foi adotado por muitos outros países como o calendário oficial e a data de 1º de janeiro tornou-se global para se comemorar o ano-novo, mesmo em países com suas próprias celebrações em outros dias (como Israel, China e Irã).","Quais são os três países que continuam comemorando o ano-novo com suas próprias celebrações?
+","Israel, China e Irã.",https://pt.wikipedia.org/wiki/Ano-novo,5.0,"The context states that there are countries that celebrate New Year on different days, but it only mentions three countries: Israel, China, and Iran. The question asks for three countries, and the context provides three images, so the question can be answered unambiguously with the information in the context.
+
+",1.0,"This question is not related to machine learning and has no relevance to the field.
+",,
+74,"Natal ou Dia de Natal é um feriado e festival religioso cristão comemorado anualmente em 25 de dezembro (nos países eslavos e ortodoxos, cujos calendários eram baseados no calendário juliano, é comemorado no dia 7 de janeiro). A data é o centro das festas de fim de ano e da temporada de férias, sendo, no cristianismo, o marco inicial do Ciclo do Natal, que dura doze dias.
+De acordo com maior parte dos historiadores, a festa originalmente era destinada a celebrar o nascimento anual do Deus Sol no solstício de inverno (natalis invicti Solis), a festividade foi ressignificada pela Igreja Católica no século III para estimular a conversão dos povos pagãos sob o domínio do Império Romano e então passou a comemorar o nascimento de Jesus de Nazaré.","Quando o Natal foi ressignificado pela Igreja Católica?
+",O Natal foi ressignificado pela Igreja Católica no século III para estimular a conversão dos povos pagãos sob o domínio do Império Romano e passou a comemorar o nascimento de Jesus de Nazaré.,https://pt.wikipedia.org/wiki/Natal,5.0,"The question asks whether Christmas was redefined by the Catholic Church, and the context explains that it was originally a pagan holiday celebrating the birth of the sun god, but was redefined by the Catholic Church to celebrate the birth of Jesus of Nazarene. The context also explains that the date was chosen to encourage the conversion of pagan peoples under the Roman Empire. Given this information, the answer to the question is clear and unambiguous, so I would give it a total rating of 5.
+
+",1.0,"This question seems to be unrelated to machine learning. It is asking about the history of the Catholic Church's celebration of Christmas, which is not a topic related to machine learning.
+
+",,
+75,"== Referências ==
+
+
+== Ligações externas ==
+ Media relacionados com Mercados natalinos no Wikimedia Commons","Quais são os mercados natalinos?
+","Os mercados natalinos são mercados que ocorrem durante o período natalino, que é o período de Natal.",https://pt.wikipedia.org/wiki/Mercado_de_Natal,1.0,"The question asks about the Christmas markets, but the context does not provide any information about them. The question is unanswerable with the given context, so I give it a total rating of 1.
+
+",1.0,"This question is not related to machine learning, and it is not clear what the user is asking. The term ""mercados natalinos"" is not a common term in English, and it is not clear what it refers to. Therefore, it is not useful for machine learning.
+
+",,
